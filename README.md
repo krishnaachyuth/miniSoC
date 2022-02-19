@@ -20,4 +20,5 @@ The target is to design a On-chip clock multiplier using the 130nm techonology n
 
 ## 2. Theory ##
 **PLL**
+![image](https://user-images.githubusercontent.com/34981932/154804549-15a581ea-36db-4c6f-8e89-2d37a6f85c85.png)
 
