@@ -31,7 +31,7 @@ The target is to design a On-chip clock multiplier using the 130nm techonology n
 * [magic](http://opencircuitdesign.com/magic/) (layout design) 
 
 <h3>Theory</h3>
-<h2> PLL Clock Multiplier </h2>
+<h4> PLL Clock Multiplier </h4>
 
 The block diagram of PLL is as shown below:
 ![image](https://user-images.githubusercontent.com/34981932/154804826-e733c9ab-6d25-432b-8567-2bdc9578a729.png)
