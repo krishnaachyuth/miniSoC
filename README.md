@@ -4,7 +4,7 @@ Table of Contents
 * [EDA tools used](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#-EDA-Tools-Used-)
 * [Theory](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#Theory)
   * [PLL Clock Multiplier](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#-PLL-Clock-Multiplier-)
-      * Specification
+      * [Specification](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#Specification)
       * Pre-layout
         * PD circuit
         * Frequency Divider Circuit
