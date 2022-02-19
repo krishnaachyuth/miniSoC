@@ -6,6 +6,12 @@ Table of Contents
 * Theory
   * PLL clock multiplier
       * Specification
+      * Pre-layout
+        * PD circuit
+        * Frequency Divider Circuit
+        * Charge pump
+        * VCO
+        * PLL
 * DAC specs
 * SRAM specs
 * Installation & Runs
