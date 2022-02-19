@@ -4,9 +4,9 @@ Table of Contents
 1. Introduction
 2. Theory
 3. Required Tools
-4. Problem statement
-5. PLL specs
-6. DAC spec
+4. PLL specs
+5. DAC specs
+6. SRAM specs
 7. Installation & Runs
 8. Methodology
 9. OpenLane and sky 130 installation
@@ -20,4 +20,4 @@ This repository contains simulation files and other files on the VSDMiniSoC - RI
 The target is to design a On-chip clock multiplier using the 130nm techonology node.
 
 2. Theory
-3. 
+
