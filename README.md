@@ -19,7 +19,8 @@ This repository contains simulation files and other files on the VSDMiniSoC - RI
 The target is to design a On-chip clock multiplier using the 130nm techonology node.
 
 ## 2. Theory ##
-**PLL**
+**PLL Clock Multiplier**
+
 The block diagram of PLL is as shown below:
 ![image](https://user-images.githubusercontent.com/34981932/154804826-e733c9ab-6d25-432b-8567-2bdc9578a729.png)
 
