@@ -4,14 +4,15 @@ Table of Contents
 2. [Theory](#heading-1 "Theory")
 3. Required Tools
 4. PLL specs
-5. DAC specs
-6. SRAM specs
-7. Installation & Runs
-8. Methodology
-9. OpenLane and sky 130 installation
-10. Synthesis
-11. References
-12. Acknowledgements
+5.  * Specification
+6. DAC specs
+7. SRAM specs
+8. Installation & Runs
+9. Methodology
+10. OpenLane and sky 130 installation
+11. Synthesis
+12. References
+13. Acknowledgements
 
 
 # 1. Introduction #
