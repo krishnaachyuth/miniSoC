@@ -1,4 +1,3 @@
-# miniSoC
 # RISC-V based SOC design with PLL,10-bit DAC and SRAM using Open-Source EDA tools #
 Table of Contents
 1. Introduction
