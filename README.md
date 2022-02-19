@@ -20,14 +20,9 @@ The target is to design a On-chip clock multiplier using the 130nm techonology n
 
 ## 2. Theory ##
 **PLL**
-
-<details>
-           <summary>PLL</summary>
-            <p> The block diagram of PLL is as shown below </p>
-           <p>![image](https://user-images.githubusercontent.com/34981932/154804801-394204b8-4f2e-4dcc-976f-6c2a02fddbdd.png)
-</p>
-</details>
 The block diagram of PLL is as shown below:
+![image](https://user-images.githubusercontent.com/34981932/154804826-e733c9ab-6d25-432b-8567-2bdc9578a729.png)
+
 
 
 
