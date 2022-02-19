@@ -3,7 +3,7 @@ Table of Contents
 * [Introduction](#Introduction "Goto Introduction")
 * [Required tools](#Required tools "Goto Required tools")
 * [Theory](#Theory "Goto Theory")
-  * [PLL clock multiplier](#PLL multiplier "Goto PLL multiplier")
+  * PLL clock multiplier
       * Specification
       * Pre-layout
         * PD circuit
