@@ -60,14 +60,15 @@ I<sub>DD</sub>      | Supple Current |  |  |  | fF | T=27C |
 ![image](https://user-images.githubusercontent.com/34981932/154814324-b84dca75-4fd4-4f84-ae44-a62f9b9e8281.png)
 
 <h3>Frequency Divivder Circuit</h3>
-
+Comapres to the reference signal with the input signal with the help of 2 flip-flops(which is used to detect the falling edge of two different signals) and a delay element. 
 ![image](https://user-images.githubusercontent.com/34981932/154814267-f727b248-4b22-4224-a3b7-f87a06df32ab.png)
 
 <h3>Charge pump(CP)</h3>
-
+Charge pump converts the digital phase frequency sIgnal into an analog control signal which is given to the oscillator.The complete operation is charge pump is based on the average timing of UP/DOWN output signal of Phase frequency detector cricuit.
 ![image](https://user-images.githubusercontent.com/34981932/154812737-c8130daf-5a0b-40d8-a67a-e94566d9a11d.png)
 
 <h3>VCO</h3>
+The basic component of Voltage controlled oscillator is ring oscillator which is the series combination of odd number of inverters which has certain delay associated with it this causes a output signal to flip after a certain delay. 
 ![image](https://user-images.githubusercontent.com/34981932/154814510-958417e1-1f68-4da1-8fa8-d874cb28bf41.png)
 
 <h3>PLL output</h3>
