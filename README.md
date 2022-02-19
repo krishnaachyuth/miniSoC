@@ -2,8 +2,8 @@
 Table of Contents
 * [Introduction](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#Introduction)
 * [EDA tools used](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#-EDA-Tools-Used-)
-* [Theory](#Theory "Goto Theory")
-  * PLL clock multiplier
+* [Theory](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#Theory)
+  * [PLL Clock Multiplier](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#-PLL-Clock-Multiplier-)
       * Specification
       * Pre-layout
         * PD circuit
@@ -30,13 +30,13 @@ The target is to design a On-chip clock multiplier using the 130nm techonology n
 * [ngspice](http://ngspice.sourceforge.net/download.html) (simulation) <br>
 * [magic](http://opencircuitdesign.com/magic/) (layout design) 
 
-<h3> Theory </h3>
+<h3>Theory</h3>
 <h2> PLL Clock Multiplier </h2>
 
 The block diagram of PLL is as shown below:
 ![image](https://user-images.githubusercontent.com/34981932/154804826-e733c9ab-6d25-432b-8567-2bdc9578a729.png)
 
-**Specifications**
+<h3>Specifications</h3>
 Parameter     | Description   | Min   | Type | Max | Unit | Condition |
 ------------- | ------------- |-------|------|-----|------|-----------|
 VDD           | Digital Supply voltage | 1.8 |     |    |  V | T=27C |
