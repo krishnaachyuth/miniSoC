@@ -5,12 +5,12 @@ Table of Contents
 * [Theory](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#Theory)
   * [PLL Clock Multiplier](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#-PLL-Clock-Multiplier-)
       * [Specifications](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#Specifications)
-      * Pre-layout
-        * PD circuit
-        * Frequency Divider Circuit
-        * Charge pump
-        * VCO
-        * PLL
+      * [Pre-layout](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#Pre-layout)
+        * [PD circuit](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#PD circuit)
+        * [Frequency Divider Circuit](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#Frequency-Divider-Circuit)
+        * [Charge Pump(CP)](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#Charge-Pump(CP))
+        * [VCO](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#VCO)
+        * [PLL](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#PLL)
 * DAC specs
 * SRAM specs
 * Installation & Runs
