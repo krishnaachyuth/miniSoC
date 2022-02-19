@@ -1,19 +1,19 @@
 # RISC-V based SOC design with PLL,10-bit DAC and SRAM using Open-Source EDA tools #
 Table of Contents
-1. [Introduction](#heading-1 "Introduction")
-2. [Theory](#heading-1 "Theory")
-3. Required Tools
-4. Theory
-5.  * PLL clock multiplier
-6.    * Specification
-7. DAC specs
-8. SRAM specs
-9. Installation & Runs
-10. Methodology
-11. OpenLane and sky 130 installation
-12. Synthesis
-13. References
-14. Acknowledgements
+* [Introduction](#heading-1 "Introduction")
+* [Theory](#heading-1 "Theory")
+* Required Tools
+* Theory
+*  * PLL clock multiplier
+      * Specification
+* DAC specs
+* SRAM specs
+* Installation & Runs
+* Methodology
+* OpenLane and sky 130 installation
+* Synthesis
+* References
+* Acknowledgements
 
 
 # 1. Introduction #
