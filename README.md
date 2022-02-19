@@ -57,6 +57,10 @@ I<sub>DD</sub>      | Supple Current |  |  |  | fF | T=27C |
 
 ![image](https://user-images.githubusercontent.com/34981932/154810086-dc5368fb-7de7-4fe2-918e-79b816e21c8d.png)
 
+<h3>Frequency Divivder Circuit</h3>
+
+![image](https://user-images.githubusercontent.com/34981932/154814267-f727b248-4b22-4224-a3b7-f87a06df32ab.png)
+
 <h3>Charge pump(CP)</h3>
 
 ![image](https://user-images.githubusercontent.com/34981932/154812737-c8130daf-5a0b-40d8-a67a-e94566d9a11d.png)
