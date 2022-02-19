@@ -57,6 +57,8 @@ I<sub>DD</sub>      | Supple Current |  |  |  | fF | T=27C |
 
 ![image](https://user-images.githubusercontent.com/34981932/154810086-dc5368fb-7de7-4fe2-918e-79b816e21c8d.png)
 
+![image](https://user-images.githubusercontent.com/34981932/154814324-b84dca75-4fd4-4f84-ae44-a62f9b9e8281.png)
+
 <h3>Frequency Divivder Circuit</h3>
 
 ![image](https://user-images.githubusercontent.com/34981932/154814267-f727b248-4b22-4224-a3b7-f87a06df32ab.png)
