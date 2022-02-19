@@ -4,7 +4,7 @@ Table of Contents
 * [Theory](#heading-1 "Theory")
 * Required Tools
 * Theory
-*  * PLL clock multiplier
+  * PLL clock multiplier
       * Specification
 * DAC specs
 * SRAM specs
