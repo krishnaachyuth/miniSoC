@@ -21,7 +21,7 @@ Table of Contents
 * Acknowledgements
 
 
-<h3> Introduction </h3>
+<h3>Introduction</h3>
 This repository contains simulation files and other files on the VSDMiniSoC - RISC-V based SoC with PLL using PLL (Fclkin - 5MHz to 12MHz, Fclkout-40MHz to 100MHz at 1.8v),DAC and SRAM.The specifications are provided from VSD corporstion Pvt. Ltd. The On-chip multiplier is present in almost all synchronous processor chips(Integrated circuits).
 The target is to design a On-chip clock multiplier using the 130nm techonology node.
 
