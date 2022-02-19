@@ -61,6 +61,11 @@ I<sub>DD</sub>      | Supple Current |  |  |  | fF | T=27C |
 
 ![image](https://user-images.githubusercontent.com/34981932/154812737-c8130daf-5a0b-40d8-a67a-e94566d9a11d.png)
 
+<h3>PLL output</h3>
+
+![image](https://user-images.githubusercontent.com/34981932/154814200-96752e02-879c-42a6-ad08-0a72c7749688.png)
+
+
 
 
 
