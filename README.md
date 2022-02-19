@@ -1,7 +1,7 @@
 # RISC-V based SOC design with PLL,10-bit DAC and SRAM using Open-Source EDA tools #
 Table of Contents
 * [Introduction](#Introduction "Goto Introduction")
-* [Required tools](#Required Tools "Goto Required tools")
+* [Required tools](#Required tools "Goto Required tools")
 * [Theory](#Theory "Goto Theory")
   * [PLL clock multiplier](#PLL multiplier "Goto PLL multiplier")
       * Specification
