@@ -52,7 +52,7 @@ C<sub>l</sub>      | Load capacitance |  |  |  | fF | T=27C |
 I<sub>DD</sub>      | Supple Current |  |  |  | fF | T=27C |
 
 
-<h2>PreLayout</h2>
+<h2>Pre-layout</h2>
 <h3>PD circuit</h3>
 
 ![image](https://user-images.githubusercontent.com/34981932/154810086-dc5368fb-7de7-4fe2-918e-79b816e21c8d.png)
