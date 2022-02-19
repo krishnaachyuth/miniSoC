@@ -28,8 +28,8 @@ The block diagram of PLL is as shown below:
 Parameter     | Description   | Min   | Type | Max | Unit | Condition |
 ------------- | ------------- |-------|------|-----|------|-----------|
 VDD           | Digital Supply voltage | 1.8 |     |  V   |  T= 27C |
-F<sub>clk</sub>      | Reference clock frequenct | 5 | 10 | 12.5 | MHz | T=27C |
-F<sub>out</sub>
+F<sub>clkRef</sub>      | Reference clock frequency | 5 | 10 | 12.5 | MHz | T=27C |
+F<sub>clkout</sub>      | Output clock | 40 |  | 100 | MHz | PLL mode, T=27C |
 
 
 
