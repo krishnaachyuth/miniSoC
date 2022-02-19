@@ -25,10 +25,11 @@ The block diagram of PLL is as shown below:
 ![image](https://user-images.githubusercontent.com/34981932/154804826-e733c9ab-6d25-432b-8567-2bdc9578a729.png)
 
 **Specifications**
-Parameter     | Description   | Min   | Type | Max | Unit |
-------------- | ------------- |-------|------|-----|------|
-VDD           | Digital Supply voltage | 1.8 |     |      |
-Fclk Ref      | Reference clock frequenct | 5 | 10 | 12.5 | MHz | 
+Parameter     | Description   | Min   | Type | Max | Unit | Condition |
+------------- | ------------- |-------|------|-----|------|-----------|
+VDD           | Digital Supply voltage | 1.8 |     |  V   |  T= 27C |
+Fclk Ref      | Reference clock frequenct | 5 | 10 | 12.5 | MHz | T=27C |
+
 
 
 
