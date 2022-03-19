@@ -89,13 +89,13 @@ RISC-V is in the hexadecimal which needs to be converted to binary which is done
 
 <h2> ABI- Application Binary Interface </h2>
 It is also called as System call Interface. This is a feature used by the system software to directly scces the registers in the hardware.<br>
- * RISC-V has 32 registers.
- * Width of each register is XLEN-1, where if
-     * XLEN = 32bit --> RV32
-     * XLEN = 64bit --> RV64
-* RISC V belongs to the little edian memory addresing system,so
-     * m[0] - LSB
-     * m[7] - MSB
+ * RISC-V has 32 registers.<br>
+ * Width of each register is XLEN-1, where if<br>
+     * XLEN = 32bit --> RV32<br>
+     * XLEN = 64bit --> RV64<br>
+* RISC V belongs to the little edian memory addresing system,so<br>
+     * m[0] - LSB<br>
+     * m[7] - MSB<br>
   
 
 
