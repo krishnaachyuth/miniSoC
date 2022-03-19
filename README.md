@@ -13,6 +13,7 @@ Table of Contents
         * [PLL](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#PLL)
 * [RISC-V](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#Introduction-to-RISC-V-ISA)
      * [ABI- Application Binary Interface](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#ABI--Application-Binary-Interface)
+     * [RISC-V CPU Core]
 * DAC specs
 * SRAM specs
 * Installation & Runs
@@ -94,8 +95,29 @@ It is also called as System call Interface. This is a feature used by the system
      - XLEN = 32bit --> RV32<br>
      - XLEN = 64bit --> RV64<br>
 - RISC V belongs to the little edian memory addresing system,so<br>
-     * m[0] - LSB<br>
-     * m[7] - MSB<br>
+     - m[0] - LSB<br>
+     - m[7] - MSB<br>
+
+<h2> RISC-V CPU Core </h2>
+<h1> TL VErilog </h1>
+This is the Verilog implementation of TL-X. TL-X is a set of HDL (Hardware Description Language) features defined as extensions to existing HDL languages, including Verilog (as "TL-Verilog"), VHDL (as "TL-VHDL"), and SystemC (as "TL-C"). This is a wrapper to any HDL to extend it with transaction-level modeling. This makes it more powerful and has a significant code reduction as compared to other HDL languages. A transaction, in this methodology, is an entity that moves through structures like pipelines, arbiters, and queues, A transaction might be a machine instruction, a flit of a packet, or a memory read/write. Transaction logic, like packet header decode or instruction execution, that operates on the transaction can be placed anywhere along the transaction's flow. Tools produce the logic to carry signals through their flows to stitch the transaction logic.
+
+<h1> Makerchip </h1>
+Makerchip provides free and instant access to the latest tools from your browser and from your desktop. This includes open-source tools and proprietary ones. We can code, compile, simulate, and debug Verilog designs, all from the browser.
+
+We now will implement RISC-V CPU. The below is the top level block diagram:
+![image](https://user-images.githubusercontent.com/34981932/159123149-57d1af6f-a833-49c1-afd6-dd3b8725f3cf.png)
+
+The pieplined logical flow plan for the same looks as below:
+![image](https://user-images.githubusercontent.com/34981932/159123203-9c420460-32a9-49b4-9a76-aef19b586b5a.png)
+
+
+
+
+
+
+
+
   
 
 
