@@ -105,12 +105,12 @@ This is the Verilog implementation of TL-X. TL-X is a set of HDL (Hardware Descr
 <h1> Makerchip </h1>
 Makerchip provides free and instant access to the latest tools from your browser and from your desktop. This includes open-source tools and proprietary ones. We can code, compile, simulate, and debug Verilog designs, all from the browser.
 
-We now will implement RISC-V CPU. The below is the top level block diagram:
-![image](https://user-images.githubusercontent.com/34981932/159123149-57d1af6f-a833-49c1-afd6-dd3b8725f3cf.png)
+We now will implement RISC-V CPU. The below is the top level block diagram:<br>
+![image](https://user-images.githubusercontent.com/34981932/159123149-57d1af6f-a833-49c1-afd6-dd3b8725f3cf.png)<br>
 
 
-The pieplined logical flow plan for the same looks as below:
-![image](https://user-images.githubusercontent.com/34981932/159123203-9c420460-32a9-49b4-9a76-aef19b586b5a.png)
+The pieplined logical flow plan for the same looks as below:<br>
+![image](https://user-images.githubusercontent.com/34981932/159123203-9c420460-32a9-49b4-9a76-aef19b586b5a.png)<br>
 
 
 
