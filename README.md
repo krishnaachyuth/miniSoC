@@ -13,7 +13,7 @@ Table of Contents
         * [PLL](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#PLL)
 * [RISC-V](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#Introduction-to-RISC-V-ISA)
      * [ABI- Application Binary Interface](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#ABI--Application-Binary-Interface)
-     * [RISC-V CPU Core]
+     * [RISC-V CPU Core](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#RISC--V-CPU-Core)
 * DAC specs
 * SRAM specs
 * Installation & Runs
@@ -107,6 +107,7 @@ Makerchip provides free and instant access to the latest tools from your browser
 
 We now will implement RISC-V CPU. The below is the top level block diagram:
 ![image](https://user-images.githubusercontent.com/34981932/159123149-57d1af6f-a833-49c1-afd6-dd3b8725f3cf.png)
+
 
 The pieplined logical flow plan for the same looks as below:
 ![image](https://user-images.githubusercontent.com/34981932/159123203-9c420460-32a9-49b4-9a76-aef19b586b5a.png)
