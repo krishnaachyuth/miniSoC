@@ -81,7 +81,7 @@ The basic component of Voltage controlled oscillator is ring oscillator which is
 ![image](https://user-images.githubusercontent.com/34981932/154814200-96752e02-879c-42a6-ad08-0a72c7749688.png)
 
 <h2> Introduction to RISC-V ISA </h2>
-ISA- Instruction set architecture, is used to interact with the computer/CPU. For example, for a C program to run on a computer hardware, then :
+ISA- Instruction set architecture, is used to interact with the computer/CPU. For example, for a C program to run on a computer hardware, then :<br>
  * First,the C-program it is compiled to an assembly language program(here, RISC-V).
  * Then the assembly language program is converted into machine language(1's and 0's).
  * Finally, these 1's and 0's are understood by the computer hardware/electronic circuit.
