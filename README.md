@@ -114,6 +114,14 @@ The pieplined logical flow plan for the same looks as below:<br>
 ![image](https://user-images.githubusercontent.com/34981932/159123203-9c420460-32a9-49b4-9a76-aef19b586b5a.png)<br>
 
 
+CPU core:<br>
+![image](https://user-images.githubusercontent.com/34981932/159123530-aee4bfe3-5e33-4be6-a5d1-76b8afa73fb6.png)
+ 
+
+
+
+
+
 
 
 
