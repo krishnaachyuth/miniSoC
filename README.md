@@ -81,14 +81,14 @@ The basic component of Voltage controlled oscillator is ring oscillator which is
 ![image](https://user-images.githubusercontent.com/34981932/154814200-96752e02-879c-42a6-ad08-0a72c7749688.png)
 
 <h2> Introduction to RISC-V ISA </h2>
-ISA- Instruction set architecture, is used to interact with the computer/CPU. For example, for a C program to run on a computer hardware, then :<br>
- * First,the C-program it is compiled to an assembly language program(here, RISC-V).
- * Then the assembly language program is converted into machine language(1's and 0's).
- * Finally, these 1's and 0's are understood by the computer hardware/electronic circuit.
-RISC-V is in the hexadecimal which needs to be converted to binary which is done using the assembler. Interface between RISC-V architecture and hardware layout, is the Hardware Descriptive language(HDL - VHDL, Verilog) which are used to implement the required hardware. 
+ISA- Instruction set architecture, is used to interact with the computer/CPU. For example, for a C program to run on a computer hardware, then:<br>
+ * First,the C-program it is compiled to an assembly language program(here, RISC-V).<br>
+ * Then the assembly language program is converted into machine language(1's and 0's).<br>
+ * Finally, these 1's and 0's are understood by the computer hardware/electronic circuit.<br>
+RISC-V is in the hexadecimal which needs to be converted to binary which is done using the assembler. Interface between RISC-V architecture and hardware layout, is the Hardware Descriptive language(HDL - VHDL, Verilog) which are used to implement the required hardware.<br> 
 
 <h2> ABI- Application Binary Interface </h2>
-It is also called as System call Interface. This is a feature used by the system software to directly scces the registers in the hardware.
+It is also called as System call Interface. This is a feature used by the system software to directly scces the registers in the hardware.<br>
 -> RISC-V has 32 registers
   
 
