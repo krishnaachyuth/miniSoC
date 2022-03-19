@@ -103,7 +103,8 @@ It is also called as System call Interface. This is a feature used by the system
 This is the Verilog implementation of TL-X. TL-X is a set of HDL (Hardware Description Language) features defined as extensions to existing HDL languages, including Verilog (as "TL-Verilog"), VHDL (as "TL-VHDL"), and SystemC (as "TL-C"). This is a wrapper to any HDL to extend it with transaction-level modeling. This makes it more powerful and has a significant code reduction as compared to other HDL languages. A transaction, in this methodology, is an entity that moves through structures like pipelines, arbiters, and queues, A transaction might be a machine instruction, a flit of a packet, or a memory read/write. Transaction logic, like packet header decode or instruction execution, that operates on the transaction can be placed anywhere along the transaction's flow. Tools produce the logic to carry signals through their flows to stitch the transaction logic.
 
 <h1> Makerchip </h1>
-Makerchip provides free and instant access to the latest tools from your browser and from your desktop. This includes open-source tools and proprietary ones. We can code, compile, simulate, and debug Verilog designs, all from the browser.
+Makerchip provides free and instant access to the latest tools from your browser and from your desktop. This includes open-source tools and proprietary ones. We can code, compile, simulate, and debug Verilog designs, all from the browser.<br>
+
 
 We now will implement RISC-V CPU. The below is the top level block diagram:<br>
 ![image](https://user-images.githubusercontent.com/34981932/159123149-57d1af6f-a833-49c1-afd6-dd3b8725f3cf.png)<br>
