@@ -14,6 +14,7 @@ Table of Contents
 * [RISC-V](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#Introduction-to-RISC-V-ISA)
      * [ABI- Application Binary Interface](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#ABI--Application-Binary-Interface)
      * [RISC-V CPU Core](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#RISC--V-CPU-Core)
+* [Integration of RISC-V and PLL](https://github.com/krishnaachyuth/miniSoC/blob/main/README.md#Integration-of-RISC--V-and-PLL)
 * DAC specs
 * SRAM specs
 * Installation & Runs
@@ -116,9 +117,42 @@ The pieplined logical flow plan for the same looks as below:<br>
 
 CPU core:<br>
 ![image](https://user-images.githubusercontent.com/34981932/159123530-aee4bfe3-5e33-4be6-a5d1-76b8afa73fb6.png)
- 
 
 
+<h2>Integration of RISC-V and PLL</h2>
+This project deals with RISC-V based microprocessor and perform the physical design to the SoC ready for tapeout, one phase of the project is the integration between PLL and RISC-V, which consists of combining PLL with rvmyth core and PLL is connected with the input clock to RVMYTH core.</br>
+
+The first step is to convert the RISC-V TL verilog to verilog file which is done using Sandpiper-saas tool.
+Steps to install [Sandpiper](https://pypi.org/project/sandpiper-saas/) are as follows:
+
+![image](https://user-images.githubusercontent.com/34981932/162611265-a223ee4f-f9fc-418b-8cf8-c5c94e7757ed.png)
+
+Use the following command to comvert the TL verilog files into verilog files. 
+
+![image](https://user-images.githubusercontent.com/34981932/162611301-e5f11f3e-5e88-4924-bbf2-35c081984d5a.png)
+
+This above step generates two HDL files as required. 
+
+<h1>RV-MYTH simulation</h1>
+
+Verilog code for functioning of PLL is as shown in above steps.
+Waveform of Integrated PLL and RVMYTH is generates using gtkwave.
+
+![image](https://user-images.githubusercontent.com/34981932/162611481-9ec9f779-add9-464c-b181-833c1786c78a.png)
+
+<h1>PLL simulation</h1>
+
+The codes for PLL and PLL testbench are attached in the repo as files. 
+The ouput waveform of PLL is as below:
+
+![image](https://user-images.githubusercontent.com/34981932/162611545-365ea55c-99bb-4a09-8dd9-d02c958ef44a.png)
+
+<h1>Combining PLL and rvmyth</h1>
+
+The very next aim of the project is to analyze the waveform of the integrated PLL and RVMYTH using iverilog and gtkwave tools.
+Output waveform of the integration is as below:
+
+![image](https://user-images.githubusercontent.com/34981932/162611615-5d0a3328-fd5c-47da-933d-b5555758807a.png)
 
 
 
